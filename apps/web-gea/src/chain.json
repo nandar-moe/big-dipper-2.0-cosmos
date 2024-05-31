@@ -236,9 +236,9 @@
         }
       },
       "endpoints": {
-        "graphql": "http://localhost:8082/v1/graphql",
-        "graphqlWebsocket": "wss://localhost:8082/v1/graphql",
-        "publicRpcWebsocket": "wss://localhost:26657/websocket"
+        "graphql": "https://gql.desmos.forbole.com/v1/graphql",
+        "graphqlWebsocket": "wss://gql.desmos.forbole.com/v1/graphql",
+        "publicRpcWebsocket": "wss://rpc.desmos.forbole.com/websocket"
       },
       "marketing": {
         "matomoURL": "https://analytics.bigdipper.live",
